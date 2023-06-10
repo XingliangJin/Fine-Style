@@ -1,0 +1,234 @@
+train:
+  num_clips: 1452
+  distribution:
+    angry:
+      walk: 122
+      run: 11
+      jump: 15
+      kick: 23
+      punch: 12
+      trans: 3
+    childlike:
+      walk: 81
+      run: 15
+      jump: 20
+      kick: 7
+      punch: 16
+      trans: 3
+    depressed:
+      walk: 150
+      run: 13
+      jump: 13
+      kick: 14
+      punch: 18
+      trans: 6
+    neutral:
+      walk: 104
+      run: 18
+      jump: 16
+      kick: 14
+      punch: 15
+      trans: 7
+    old:
+      walk: 125
+      run: 14
+      jump: 13
+      kick: 10
+      punch: 11
+      trans: 8
+    proud:
+      walk: 136
+      run: 20
+      jump: 13
+      kick: 8
+      punch: 8
+      trans: 3
+    sexy:
+      walk: 104
+      run: 14
+      jump: 15
+      kick: 21
+      punch: 8
+      trans: 3
+    strutting:
+      walk: 142
+      run: 19
+      jump: 5
+      kick: 18
+      punch: 13
+      trans: 5
+test:
+  num_clips: 56
+  distribution:
+    angry:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    childlike:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    depressed:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    neutral:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    old:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    proud:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    sexy:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+    strutting:
+      walk: 3
+      run: 1
+      jump: 1
+      kick: 1
+      punch: 1
+      trans: 0
+trainfull:
+  num_clips: 516
+  distribution:
+    angry:
+      walk: 34
+      run: 7
+      jump: 5
+      kick: 7
+      punch: 11
+      trans: 3
+    childlike:
+      walk: 27
+      run: 8
+      jump: 5
+      kick: 7
+      punch: 11
+      trans: 3
+    depressed:
+      walk: 34
+      run: 6
+      jump: 4
+      kick: 7
+      punch: 11
+      trans: 5
+    neutral:
+      walk: 29
+      run: 11
+      jump: 5
+      kick: 7
+      punch: 15
+      trans: 6
+    old:
+      walk: 32
+      run: 9
+      jump: 5
+      kick: 7
+      punch: 5
+      trans: 5
+    proud:
+      walk: 30
+      run: 6
+      jump: 4
+      kick: 4
+      punch: 7
+      trans: 3
+    sexy:
+      walk: 27
+      run: 8
+      jump: 5
+      kick: 7
+      punch: 7
+      trans: 3
+    strutting:
+      walk: 40
+      run: 9
+      jump: 2
+      kick: 7
+      punch: 11
+      trans: 5
+test_files:
+- angry_01_000.bvh
+- angry_01_001.bvh
+- angry_01_002.bvh
+- angry_13_000.bvh
+- angry_16_000.bvh
+- angry_18_000.bvh
+- angry_22_000.bvh
+- childlike_01_000.bvh
+- childlike_01_001.bvh
+- childlike_01_002.bvh
+- childlike_13_000.bvh
+- childlike_16_000.bvh
+- childlike_18_000.bvh
+- childlike_22_000.bvh
+- depressed_01_000.bvh
+- depressed_01_001.bvh
+- depressed_01_002.bvh
+- depressed_13_000.bvh
+- depressed_16_000.bvh
+- depressed_18_000.bvh
+- depressed_22_000.bvh
+- neutral_01_000.bvh
+- neutral_01_001.bvh
+- neutral_01_002.bvh
+- neutral_13_000.bvh
+- neutral_16_000.bvh
+- neutral_18_000.bvh
+- neutral_22_000.bvh
+- old_01_000.bvh
+- old_01_001.bvh
+- old_01_002.bvh
+- old_13_000.bvh
+- old_16_000.bvh
+- old_18_000.bvh
+- old_22_000.bvh
+- proud_01_000.bvh
+- proud_01_001.bvh
+- proud_01_002.bvh
+- proud_13_000.bvh
+- proud_16_000.bvh
+- proud_18_000.bvh
+- proud_22_000.bvh
+- sexy_01_000.bvh
+- sexy_01_001.bvh
+- sexy_01_002.bvh
+- sexy_13_000.bvh
+- sexy_16_000.bvh
+- sexy_18_000.bvh
+- sexy_22_000.bvh
+- strutting_01_000.bvh
+- strutting_01_001.bvh
+- strutting_01_002.bvh
+- strutting_13_000.bvh
+- strutting_16_000.bvh
+- strutting_18_000.bvh
+- strutting_22_000.bvh
