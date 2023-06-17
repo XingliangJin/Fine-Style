@@ -1,4 +1,4 @@
-# FineStyle: Semantic-Aware Fine-Grained Style Transfer with Dual Interactive-Flow Fusion
+# FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion
 
 <p align="center"><img src="images/pipline.png" align="center"> <br></p>
 
