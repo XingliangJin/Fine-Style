@@ -53,5 +53,8 @@ If you want to generate processed training data from the original dataset yourse
 cd data_proc
 sh gen_dataset.sh
 ```
-
-
+## Acknowledgements
+Our code is mostly taken from the following repositories: \
+[A Deep Learning Framework For Character Motion Synthesis and Editing](http://theorangeduck.com/page/deep-learning-framework-character-motion-synthesis-and-editing). \
+[Unpaired Motion Style Transfer from Video to Animation](https://github.com/DeepMotionEditing/deep-motion-editing). \
+We sincerely thank these authors for their awesome work.
