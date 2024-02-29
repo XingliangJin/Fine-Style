@@ -44,9 +44,9 @@ sh demo.sh
 ## Train Fine-Style
 Simply run the following command:
 ```bash
-python train.py --name experiment_name
+python train.py
 ```
-You can change more settings of training in config.py.
+You can change more settings of training in config.py (please set your own experiment name in config.py).
 
 If you want to generate processed training data from the original dataset yourself, you can first download the dataset from [mocap_xia](https://drive.google.com/file/d/16vKR9-OWleMuIIJ5G5iD3sqHF6MGyLEr/view?usp=drive_link). Then unzip it in ./data floder and run the following command:
 ```bash
